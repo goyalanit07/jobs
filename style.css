@@ -1,0 +1,66 @@
+.main-image{
+    background-image: url(steve_jobs_commemorative.jpg);
+    height: 530px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: cursive;
+    font-size: x-large;
+    
+}
+h6{
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(51, 45, 45);
+    margin: 10px;
+}
+
+.outer-box{
+    margin: 0px 0px 0px 50px;
+}
+
+
+.LTContent{
+    width: 100px;
+    height:50px;
+    text-align: center;
+    line-height: 26px;
+    font-size: 14px;
+    border-top: 2px solid rgb(190, 152, 152);
+    font-weight: bold;
+    background-color: rgba(237, 237, 248, 0.336);
+    position: absolute;
+}
+.LMContent{
+    width: 625px;
+    height: 50px;
+    background: #d6d9e654;
+    font-size: 14px;
+    position: relative;
+    left: 120px;
+    border-top: 2px solid rgba(176, 202, 224, 0.637);
+}
+.Sec-pic{
+    height: 200px;
+}
+.bio{
+    float: right;
+    background-color: rgba(241, 237, 231, 0.795);
+    position: absolute;
+    right: 0;
+    top: 700px;
+    margin: 0  40px 0 0;
+}
+td{
+    width: 180px;
+    border-bottom: 1px solid black;
+}
+th{
+    width: 30px;
+    padding: 5px;
+}
